@@ -59,7 +59,7 @@ export const Banner = () => {
                 <h1>{`Hi! I'm Nicolas`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer"]'><span className="wrap">{text}</span></span></h1>
                   <p>
                     I'm a front end developer passionated in problem solving and user experiences.
-                    Gradueted from high school at the end of 2021, and immediately dedicated 2021 to study and achieve a high score on the ENEM (Brazilian National High School Exam), with the goal of entering a college in the near future.
+                    Gradueted from high school at the end of 2021, and immediately dedicated 2022 to study and achieve a high score on the ENEM (Brazilian National High School Exam), with the goal of entering a college in the near future.
                     In 2023, I embarked on a journey to study web development, aiming to be well-prepared for my college admission in 2024.
                   </p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
